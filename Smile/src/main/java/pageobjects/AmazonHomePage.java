@@ -30,5 +30,9 @@ public class AmazonHomePage {
 
     }
 
+    public void getPageTitle(){
+
+    }
+
 
 }

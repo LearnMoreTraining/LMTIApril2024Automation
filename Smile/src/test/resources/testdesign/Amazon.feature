@@ -1,7 +1,7 @@
 Feature: To validate the Amazon Functionality
 
   #before
-  @sc01 @learnmore
+  @SC01 @learnmore
   Scenario: Search Functionality
    # Given user navigates to Amazon Homepage
     When user enters the product name "iphone" in search box
